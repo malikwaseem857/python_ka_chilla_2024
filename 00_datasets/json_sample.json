@@ -1,0 +1,38 @@
+[
+    {
+        "title": "12 Strong",
+        "genre": "Action",
+        "gross": "$453,173",
+        "imdb_metascore": 54,
+        "popcorn_score": 72,
+        "rating": "R",
+        "tomato_score": 54
+    },
+    {
+        "title": "A Fantastic Woman",
+        "genre": "Drama",
+        "gross": "$87,000",
+        "imdb_metascore": 78,
+        "popcorn_score": 83,
+        "rating": "R",
+        "tomato_score": 90
+    },
+    {
+        "title": "Call Me By Your Name",
+        "genre": "Drama",
+        "gross": "$1,000,000",
+        "imdb_metascore": 93,
+        "popcorn_score": 87,
+        "rating": "R",
+        "tomato_score": 96
+    },
+    {
+        "title": "Paddington 2",
+        "genre": "Animation",
+        "gross": "$184,414",
+        "imdb_metascore": 88,
+        "popcorn_score": 89,
+        "rating": "PG",
+        "tomato_score": 100
+    }
+]
